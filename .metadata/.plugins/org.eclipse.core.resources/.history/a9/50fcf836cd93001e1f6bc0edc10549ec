@@ -1,0 +1,11 @@
+package edu.kh.todo.main.controller;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+// @Controller + @ResponseBody
+// Json 형태 객체 데이터로 반환
+public class MainController {
+
+	
+}
